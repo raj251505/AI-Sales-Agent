@@ -1,0 +1,9 @@
+playwright
+openpyxl
+google-genai
+python-telegram-bot>=20.0
+gspread
+google-auth
+apscheduler
+python-dotenv
+pywhatkit

@@ -1,0 +1,13 @@
+outreach_agent/.env
+outreach_agent/credentials.json
+outreach_agent/__pycache__/
+outreach_agent/*.xlsx
+outreach_agent/PyWhatKit_DB.txt
+.env
+.venv/
+node_modules/
+dist/
+build/
+.vscode/
+.idea/
+*.log
